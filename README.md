@@ -1,4 +1,4 @@
-<h1 align=center" IN3050 - Introduction to Artificial Intelligence and Machine Learning </h1>
+<h1 align=center"> IN3050 - Introduction to Artificial Intelligence and Machine Learning </h1>
   
 <h3 align="center"> Course Description </h3> 
 
